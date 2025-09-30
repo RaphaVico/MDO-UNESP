@@ -1,0 +1,7 @@
+# Ferramentas de teste
+pytest
+pytest-cov
+
+# Formatadores e Linters
+ruff
+black
